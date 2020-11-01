@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4742c454.chunk.css",
+    "main.js": "/static/js/main.3b5ece86.chunk.js",
+    "main.js.map": "/static/js/main.3b5ece86.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.add56a83.js",
+    "runtime-main.js.map": "/static/js/runtime-main.add56a83.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.896b72f1.chunk.js": "/static/js/2.896b72f1.chunk.js",
+    "static/js/2.896b72f1.chunk.js.map": "/static/js/2.896b72f1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ae8dce98b57e431e8d533f21cc4940a7.js": "/precache-manifest.ae8dce98b57e431e8d533f21cc4940a7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.4742c454.chunk.css.map": "/static/css/main.4742c454.chunk.css.map",
+    "static/js/2.896b72f1.chunk.js.LICENSE.txt": "/static/js/2.896b72f1.chunk.js.LICENSE.txt",
+    "static/media/avatar.jpg": "/static/media/avatar.1fc247b4.jpg",
+    "static/media/code.jpg": "/static/media/code.29029173.jpg",
+    "static/media/hicit_logo1.png": "/static/media/hicit_logo1.05f591c9.png",
+    "static/media/App.css": "/static/media/hie.f1896a2f.png",
+    "static/media/ihmi_logoweb.png": "/static/media/ihmi_logoweb.3e840ba2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.add56a83.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.896b72f1.chunk.js",
+    "static/css/main.4742c454.chunk.css",
+    "static/js/main.3b5ece86.chunk.js"
+  ]
+}
